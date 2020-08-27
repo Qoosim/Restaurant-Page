@@ -1,0 +1,29 @@
+/* #26466D */
+/* #00C78C */
+/* #236B8E */
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  background: url('../images/fulani1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ecf0f1;
+  line-height: 1.6em;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+.inner-content {
+  margin-top: 50px;
+}
+
+.welcome {
+  font-size: 3.5rem;
+}
